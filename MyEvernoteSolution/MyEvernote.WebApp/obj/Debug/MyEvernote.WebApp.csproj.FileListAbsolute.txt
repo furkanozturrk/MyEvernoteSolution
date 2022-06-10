@@ -1,0 +1,130 @@
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.rsp
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csi.exe
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csi.rsp
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Razor.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.dll.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Razor.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CopyComplete
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.BusinessLayer.dll.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb

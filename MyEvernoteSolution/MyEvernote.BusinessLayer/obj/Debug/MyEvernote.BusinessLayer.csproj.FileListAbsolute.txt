@@ -1,0 +1,42 @@
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CopyComplete
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\source\repos\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Benim_proje_yedek\22_03_29_Üye_bitti\MyEvernoteSolution\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
